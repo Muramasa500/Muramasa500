@@ -1,4 +1,4 @@
-# 👋 Welcome to My Profile!
+# Welcome to My Profile
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Hi+there!+;+I'm+a+Developer+with+Industrial+Automation+Expertise;+Python.+Bash.+VB.NET.;+Siemens+PLC.+SCADA.+OPC)](https://git.io/typing-svg)
 
