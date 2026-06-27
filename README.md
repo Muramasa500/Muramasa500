@@ -16,9 +16,4 @@
 
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/mikael-lundstr%C3%B6m-b2172112a)
-
----
-
 *📫 Feel free to reach out for collaboration!*
